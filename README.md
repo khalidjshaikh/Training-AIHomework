@@ -12,4 +12,5 @@ Open `http://localhost:8080/` in Chrome
 
 ### Tests
 `pytest`
+
 ![](images/pytest.png)
